@@ -2,11 +2,12 @@
 p::before{
 	content: "Before Element ";
 	color: rgb(255, 0, 0);
+	
 }
 p::after{
 	content: " After Element";
 	color: rgb(255, 0, 0);
 }
 p{
-	
+	color: rgb(0, 0, 0);
 }
